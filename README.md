@@ -1,1 +1,1 @@
-# awesome_quote
+# awesome_quotes
