@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/awesome_quotes.git/static/css/main.722d886b.css",
+    "main.js": "/awesome_quotes.git/static/js/main.694cc02a.js",
+    "static/css/684.d03ab1b8.chunk.css": "/awesome_quotes.git/static/css/684.d03ab1b8.chunk.css",
+    "static/js/684.5df26f11.chunk.js": "/awesome_quotes.git/static/js/684.5df26f11.chunk.js",
+    "static/css/989.f452e848.chunk.css": "/awesome_quotes.git/static/css/989.f452e848.chunk.css",
+    "static/js/989.86bca36b.chunk.js": "/awesome_quotes.git/static/js/989.86bca36b.chunk.js",
+    "static/js/727.2ff7e441.chunk.js": "/awesome_quotes.git/static/js/727.2ff7e441.chunk.js",
+    "static/css/356.730028ac.chunk.css": "/awesome_quotes.git/static/css/356.730028ac.chunk.css",
+    "static/js/356.fbac7aec.chunk.js": "/awesome_quotes.git/static/js/356.fbac7aec.chunk.js",
+    "static/js/787.afb4bd25.chunk.js": "/awesome_quotes.git/static/js/787.afb4bd25.chunk.js",
+    "index.html": "/awesome_quotes.git/index.html",
+    "main.722d886b.css.map": "/awesome_quotes.git/static/css/main.722d886b.css.map",
+    "main.694cc02a.js.map": "/awesome_quotes.git/static/js/main.694cc02a.js.map",
+    "684.d03ab1b8.chunk.css.map": "/awesome_quotes.git/static/css/684.d03ab1b8.chunk.css.map",
+    "684.5df26f11.chunk.js.map": "/awesome_quotes.git/static/js/684.5df26f11.chunk.js.map",
+    "989.f452e848.chunk.css.map": "/awesome_quotes.git/static/css/989.f452e848.chunk.css.map",
+    "989.86bca36b.chunk.js.map": "/awesome_quotes.git/static/js/989.86bca36b.chunk.js.map",
+    "727.2ff7e441.chunk.js.map": "/awesome_quotes.git/static/js/727.2ff7e441.chunk.js.map",
+    "356.730028ac.chunk.css.map": "/awesome_quotes.git/static/css/356.730028ac.chunk.css.map",
+    "356.fbac7aec.chunk.js.map": "/awesome_quotes.git/static/js/356.fbac7aec.chunk.js.map",
+    "787.afb4bd25.chunk.js.map": "/awesome_quotes.git/static/js/787.afb4bd25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722d886b.css",
+    "static/js/main.694cc02a.js"
+  ]
+}

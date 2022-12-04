@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/727.2ff7e441.chunk.js","mappings":"4IAMA,UANA,WACA,OAAO,gBAAKA,UAAU,UAAS,UAC5B,2CAEH,C","sources":["Page/NotFound.js"],"sourcesContent":["function NotFound(){\r\nreturn <div className=\"centerd\">\r\n   <p>page not found</p>\r\n</div>\r\n} \r\n\r\nexport default NotFound"],"names":["className"],"sourceRoot":""}
